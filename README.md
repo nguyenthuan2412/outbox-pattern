@@ -1,5 +1,7 @@
 # Outbox Pattern for PHP
 
+**English** | [Tiếng Việt](README.vi.md)
+
 [![tests](https://github.com/nguyenthuan2412/outbox-pattern/actions/workflows/tests.yml/badge.svg)](https://github.com/nguyenthuan2412/outbox-pattern/actions/workflows/tests.yml)
 [![Packagist](https://img.shields.io/packagist/v/nguyenthuan2412/outbox-pattern.svg)](https://packagist.org/packages/nguyenthuan2412/outbox-pattern)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
